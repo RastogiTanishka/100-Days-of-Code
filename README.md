@@ -49,16 +49,16 @@
 
 ### **Day minus 3**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ] Submit your Name for 100 Days of Code. 
+- [1] Learn Git/GitHub.
+- [1] Submit your Name for 100 Days of Code. 
 > **IDIOT BOX** : Empty
 
 ---
 
 ### **Day minus 2**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ]  Submit your Name for 100 Days of Code.
+- [1] Learn Git/GitHub.
+- [1]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
  
 
@@ -66,8 +66,8 @@
 
 ### **Day minus 1**
 #### Tasks
-- [ ] Learn Git/GitHub.
-- [ ]  Submit your Name for 100 Days of Code.
+- [1] Learn Git/GitHub.
+- [1]  Submit your Name for 100 Days of Code.
 > **IDIOT BOX** : Empty
 
 ---
